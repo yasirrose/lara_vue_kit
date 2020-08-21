@@ -16,7 +16,6 @@ Npm: **npm install**
 Now update the database settings in the .env file create a databse using navicate/phpmyadmin and update the APP_URL for correct paths.
 
 Now run **php artisan migrate**  and **php artisan db:seed** to generate table schemas ans dumy data.
-**php artisan migrate** to generate table schemas.
 
 ### Run Application
 
