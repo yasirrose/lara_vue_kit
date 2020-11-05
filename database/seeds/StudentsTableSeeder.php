@@ -17,7 +17,7 @@ class StudentsTableSeeder extends Seeder
             0 =>
             array (
                 'id' => 1,
-                'about' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia harum cum, nemo architecto quos quae consectetur omnis consequatur, ad aspernatur, excepturi fugiat quaerat nihil voluptates illum modi. Explicabo, asperiores, ipsa.',
+                'about' => 'Lorem ipsum dolor sit amet.',
                 'address' => 'qwqwqww',
                 'address2' => 'qwqwqwqw',
                 'city' => 'qwqwqw',
